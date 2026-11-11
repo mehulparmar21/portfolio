@@ -58,6 +58,16 @@ const roles = [
     ],
   },
   {
+    start: "2015-08",
+    end: "2016-02",
+    title: "Junior PHP Developer",
+    company: "Sri Samarth Utility Services Pvt. Ltd.",
+    points: [
+      "My first web development role, after moving from Tally into PHP.",
+      "Built features for a startup product, including mobile recharge, using CodeIgniter and Zend.",
+    ],
+  },  
+  {
     start: "2013-01",
     end: "2015-01",
     title: "Tally Developer",
